@@ -2,7 +2,7 @@
 
 ## Colaboradores
 - Guillem Ruiz
-- Guillem Ruiz2
+- Guillem Ruiz 2
 
 ## Description
 Aprendiendo como usar GIT y GitHub
